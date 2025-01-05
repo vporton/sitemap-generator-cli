@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "chalk": "2.4.1",
-    "commander": "2.19.0",
+    "commander": "2.20.3",
     "sitemap-generator": "8.4.0",
     "http-proxy-agent": "4.0.1",
     "https-proxy-agent": "5.0.0"
