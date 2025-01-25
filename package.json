@@ -27,7 +27,7 @@
     "url": "https://github.com/lgraubner/sitemap-generator-cli/issues"
   },
   "dependencies": {
-    "chalk": "2.4.1",
+    "chalk": "2.4.2",
     "commander": "2.19.0",
     "sitemap-generator": "8.4.0",
     "http-proxy-agent": "4.0.1",
